@@ -1,2 +1,3 @@
-# mnisting
+# MNISTing
+
 Fun with mnist datasets
