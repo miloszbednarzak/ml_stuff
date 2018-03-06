@@ -1,3 +1,3 @@
-# MNISTing
+# Machine learning stuff
 
-Fun with mnist datasets
+Fun with some machine learning projects
